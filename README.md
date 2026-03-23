@@ -85,9 +85,9 @@ I enjoy designing intelligent pipelines that combine data, models, and reasoning
 
 # 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=MurtazaG786\&show_icons=true\&theme=tokyonight)
 
-![streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![streak](https://streak-stats.demolab.com?user=MurtazaG786\&theme=tokyonight)
 
 ---
 
